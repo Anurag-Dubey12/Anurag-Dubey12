@@ -3,7 +3,7 @@
 <img align="right" alt="coading" width="400" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47p1qww3jo8zdsqr05fw2qywkmuoj3grxynr9zzg0n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anurag-Dubey12&label=Profile%20views&color=0e75b6&style=flat" alt="Anurag-Dubey12" /> </p>
 
-- 🔭 I’m currently working on **Event Management**
+- 🔭 I’m currently learning Flutter
 
 - 💬 Ask me about **Kotlin and Java Application Development**
 
