@@ -3,13 +3,13 @@
 <img align="right" alt="coading" width="400" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47p1qww3jo8zdsqr05fw2qywkmuoj3grxynr9zzg0n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anurag-Dubey12&label=Profile%20views&color=0e75b6&style=flat" alt="Anurag-Dubey12" /> </p>
 
-- 🔭 I’m currently learning Flutter
+- 🔭 I’m currently learning Jetpack Compose
 
-- 💬 Ask me about **Kotlin and Java Application Development**
+- 💬 Ask me about **Kotlin and Flutter Application Development**
 
 - 📫 How to reach me **ad210689@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_aDV2Ub1Kp4bqvDf7Mi2glAPfrmka_Ca/view?usp=sharing](https://drive.google.com/file/d/1oMMrXKtooXbuaCEhM97vJ7dZ-sfBYLLf/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_aDV2Ub1Kp4bqvDf7Mi2glAPfrmka_Ca/view?usp=sharing](https://drive.google.com/file/d/1cQFRVvtttPsB90ZaH--6w8ZZdfmmgU9C/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
