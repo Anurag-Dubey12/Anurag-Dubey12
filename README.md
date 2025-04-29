@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Full Stack App Developement**
+- 🔭 I’m currently Focus on **Full Stack App Developement**
 - 💬 Ask me about **Flutter**, **Kotlin**, **Dart**, and **Mobile App Development**
 - 📫 Reach me at: [ad210689@gmail.com](mailto:ad210689@gmail.com)
 - 📄 Check my experiences [here](https://drive.google.com/file/d/1KOKJxrDvzoZ--glXUWYNIF6jH-ykXFjP/view?usp=drive_link)
