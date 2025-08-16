@@ -7,9 +7,8 @@
 </div>
 
 ---
-
 <div align="center">
-  <img src="https://media.giphy.com/media/6FWpozKBgrQD4MZwDC/giphy.gif" width="320px" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding GIF" />
 </div>
 
 ---
@@ -42,22 +41,34 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🖥️ Frontend
-<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart" />
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🔧 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="NodeJS, Express, MongoDB, MySQL, Firebase" />
+### Web Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🛠️ Tools & Languages
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git" alt="Kotlin, Java, Android Studio, Git" />
+### Database & Tools
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### State Management
+![GetX](https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
 ---
+
 
 ## 📊 GitHub Stats
 
